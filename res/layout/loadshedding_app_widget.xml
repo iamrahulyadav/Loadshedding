@@ -1,0 +1,132 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:padding="@dimen/widget_margin"
+    android:background="@drawable/bg_widget" >
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        />
+    <LinearLayout
+        android:id="@+id/groupConfigure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|center_vertical"
+        android:layout_marginLeft="4dp"
+        android:orientation="vertical"
+        >
+        
+        <TextView
+            android:id="@+id/section_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#fbe795"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            tools:text="GROUP 1" />
+        <TextView
+            android:id="@+id/dayOfWeek"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#fe8251"
+            android:textStyle="bold"
+            android:textSize="28sp"
+            tools:text="WEN" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        />
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/lb"
+            />
+    <TextView
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/time"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        
+        android:shadowRadius="3"
+        android:textColor="#00f0ff"
+        android:textSize="17sp"
+        tools:text="05:30am-09:30am\n13:00pm-18:00pm"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        />
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/lb"
+            />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        />
+    
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        />
+    <LinearLayout
+        android:id="@+id/flashLight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginRight="1dp"
+        android:layout_gravity="right|center_vertical">
+
+        
+
+        <ImageView
+            android:id="@+id/onOffIndicator"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_on_widget" />
+        
+
+        <TextView
+            android:id="@+id/timeLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#00e4ff"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            tools:text="10:00" />
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        />
+</LinearLayout>

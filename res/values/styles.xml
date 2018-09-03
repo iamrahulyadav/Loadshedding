@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="HomeAppTheme" parent="AppTheme">
+        <item name="actionBarStyle">@style/HomeTheme.ActionBarStyle</item>
+        <item name="android:actionBarStyle">@style/HomeTheme.ActionBarStyle</item>
+        <item name="actionBarSize">50dp</item>
+        <item name="android:actionBarSize">50dp</item>
+    </style>
+    
+    <style name="HomeTheme.ActionBarStyle" parent="@style/Widget.Sherlock.ActionBar">
+        <item name="android:titleTextStyle">@style/MyTheme.TitleTextStyle</item>
+        <item name="titleTextStyle">@style/MyTheme.TitleTextStyle</item>
+        <item name="android:background">@drawable/ac_bg</item>
+        <item name="background">@drawable/ac_bg</item>
+    </style>
+    
+    <style name="AppTheme" parent="Theme.Sherlock.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/MyTheme.ActionBarStyle</item>
+        <item name="android:actionBarStyle">@style/MyTheme.ActionBarStyle</item>
+        <!--<item name="android:windowBackground">@drawable/img_splash</item>-->
+    </style>
+
+    <style name="StartAppTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowBackground">@drawable/img_splash</item>
+    </style>
+
+    <style name="MyTheme.ActionBarStyle" parent="@style/Widget.Sherlock.ActionBar">
+        <item name="android:titleTextStyle">@style/MyTheme.TitleTextStyle</item>
+        <item name="titleTextStyle">@style/MyTheme.TitleTextStyle</item>
+        <item name="android:background">@drawable/ac_bg</item>
+        <item name="background">@drawable/ac_bg</item>
+    </style>
+    <style name="MyTheme.TitleTextStyle" parent="@style/TextAppearance.Sherlock.Widget.ActionBar.Title">
+        <item name="android:textSize">35sp</item>
+    </style>
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+
+    <style name="ButtonBarButton"/>
+
+</resources>

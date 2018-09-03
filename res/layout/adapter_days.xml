@@ -1,0 +1,132 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:qwerjk="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="horizontal"
+    android:padding="2dp"
+    >
+
+    <LinearLayout
+        android:id="@+id/dateArea"
+        android:layout_width="82dp"
+        android:layout_height="82dp"
+        
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical"
+        android:padding="2dp" >
+
+        <com.ansoft.loadshedding.ui.utils.MagicTextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="1dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#1b1b1b"
+            tools:text="PAUSH 22" />
+
+        <com.ansoft.loadshedding.ui.utils.MagicTextView
+            android:id="@+id/dayOfWeek"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="1dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#1b1b1b"
+            android:textStyle="bold"
+            qwerjk:outerShadowRadius="3dp"
+            tools:text="WEN" />
+
+        <com.ansoft.loadshedding.ui.utils.MagicTextView
+            android:id="@+id/year"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="1dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#1b1b1b"
+            qwerjk:outerShadowRadius="3dp"
+            tools:text="2071 B.S" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:layout_gravity="center_vertical" >
+
+        <com.ansoft.loadshedding.ui.utils.MagicTextView
+            android:id="@+id/time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#590807"
+            android:textStyle="bold"
+            tools:text="05:30-09:30\n13:00-18:00" />
+
+        <TextView
+            android:id="@+id/total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            
+            android:gravity="center"
+            android:paddingBottom="2dp"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:paddingTop="2dp"
+            android:text="@string/total_loadshedding"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#e5e5e5"
+            android:textStyle="bold"
+            android:layout_marginTop="4dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/onOff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_marginTop="2dp"
+            android:gravity="center"
+            android:text="@string/on"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff" />
+
+        <ImageView
+            android:id="@+id/onOffIndicator"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            
+            android:src="@drawable/ic_on" />
+
+        <TextView
+            android:id="@+id/timeLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginBottom="2dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#00ff12"
+            android:textStyle="bold"
+            tools:text="10:00" />
+    </LinearLayout>
+    
+
+</LinearLayout>

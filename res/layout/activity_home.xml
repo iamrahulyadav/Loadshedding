@@ -1,0 +1,119 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f1f1"
+    android:orientation="vertical"
+    tools:context=".Home" >
+
+    <RadioGroup
+        android:id="@+id/groups"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/group1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_group_bg"
+            android:button="@android:color/transparent"
+            android:gravity="center"
+            android:padding="0dp"
+            android:text="1"
+            android:textColor="@drawable/btn_group_text_color"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/group2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_group_bg"
+            android:button="@android:color/transparent"
+            android:gravity="center"
+            android:text="2"
+            android:textColor="@drawable/btn_group_text_color"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/group3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_group_bg"
+            android:button="@android:color/transparent"
+            android:gravity="center"
+            android:text="3"
+            android:textColor="@drawable/btn_group_text_color"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/group4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_group_bg"
+            android:button="@android:color/transparent"
+            android:gravity="center"
+            android:text="4"
+            android:textColor="@drawable/btn_group_text_color"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/group5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_group_bg"
+            android:button="@android:color/transparent"
+            android:gravity="center"
+            android:text="5"
+            android:textColor="@drawable/btn_group_text_color"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/group6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_group_bg"
+            android:button="@android:color/transparent"
+            android:gravity="center"
+            android:text="6"
+            android:textColor="@drawable/btn_group_text_color"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/group7"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_group_bg"
+            android:button="@android:color/transparent"
+            android:gravity="center"
+            android:text="7"
+            android:textColor="@drawable/btn_group_text_color"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </RadioGroup>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>

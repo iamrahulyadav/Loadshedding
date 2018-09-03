@@ -1,0 +1,238 @@
+<LOCATIONS>
+    <LOCATION NAME="Mangal Bazaar" GROUP="1" CITY="Kathmandu"/>
+    <LOCATION NAME="Pharping" GROUP="2" CITY="Kathmandu" />
+    <LOCATION NAME="Patan" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Ring Road" GROUP="4"  CITY="Kathmandu" />
+    <LOCATION NAME="Sainbu" GROUP="5"  CITY="Kathmandu" />
+    <LOCATION NAME="Radio Nepal" GROUP="6"  CITY="Kathmandu" />
+    <LOCATION NAME="Pulchowk" GROUP="6"  CITY="Kathmandu" />
+    <LOCATION NAME="Jawalakhel" GROUP="7"  CITY="Kathmandu" />
+    <LOCATION NAME="Chapagaun" GROUP="7"  CITY="Kathmandu" />
+    <LOCATION NAME="Byanshi" GROUP="2"  CITY="Kathmandu" />
+    <LOCATION NAME="Katunje" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Nalinchowk" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Nagarkot" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Brick" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Tripureshwor" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Tahachal" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Kalimati" GROUP="2" CITY="Kathmandu" />
+    <LOCATION NAME="Thankot" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Pulchowk" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Bhimsensthan" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Kirtipur" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Baneshwor" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Koteshwor" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Bagmati" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Imadol" GROUP="2" CITY="Kathmandu" />
+    <LOCATION NAME="Fidol" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Gothatar" GROUP="2" CITY="Kathmandu" />
+    <LOCATION NAME="Godawari-1" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Conference Hall" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="New Airport" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Dhobikhola" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Old Airport" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Lubu" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Sankhamul" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Jorpati" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Naxal" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Airport" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Dhobikhola" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Daachi" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Battisputali" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Tangal" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Pashupati" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Sankhu" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="OM Hospital" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Sundarijal" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Kapan" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Keshar Mahal" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Gairi Dhara" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Lazimpat" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Kings Way" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Durbar Marg" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Thamel" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Samakhushi" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Naya Bazaar" GROUP="2" CITY="Kathmandu" />
+    <LOCATION NAME="Nagarjun" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Swoyambhu" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Bishnumati" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Maharajgunj-1" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Dharmasthali" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Tahachal" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Thankot" GROUP="2" CITY="Kathmandu" />
+    <LOCATION NAME="Kalimati" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Kalanki" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Rope way" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Balambu" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Swoyambhu" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Dhulikhel" GROUP="2" CITY="Kathmandu" />
+    <LOCATION NAME="Sanga" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Nala" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Khawa" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Dhulikhel Hospital" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Khopashi" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Panauti" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Thapathali" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Sanepa" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Teku" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Patan" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Kamaladi" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Ason" GROUP="2" CITY="Kathmandu" />
+    <LOCATION NAME="Mahaboudha" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Durbar Marg" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="BagBazaar" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Budhanilkantha" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Basbari" GROUP="2" CITY="Kathmandu" />
+    <LOCATION NAME="Baluwatar" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="US Embassy" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Gongabu" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Dhapashi" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Golfutar" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Balkumari" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Thimi" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Sallaghari" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="KhichaPokhari" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Tripureshwor" GROUP="2" CITY="Kathmandu" />
+    <LOCATION NAME="New Road" GROUP="4" CITY="Kathmandu" />
+    <LOCATION NAME="Bhotebahal" GROUP="6" CITY="Kathmandu" />
+    <LOCATION NAME="Bhrikuti Mandap" GROUP="1" CITY="Kathmandu" />
+    <LOCATION NAME="Kalikasthan" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Anamnagar" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Putalisadak" GROUP="7" CITY="Kathmandu" />
+    <LOCATION NAME="Matatirtha" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Piple" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Palanchowk" GROUP="3" CITY="Kathmandu" />
+    <LOCATION NAME="Melamchi" GROUP="5" CITY="Kathmandu" />
+    <LOCATION NAME="Paanchkhal" GROUP="6" CITY="Paanchkhal" />
+    <LOCATION NAME="Gramin" GROUP="1" CITY="Hetauda" />
+    <LOCATION NAME="Bhutan Devi" GROUP="3" CITY="Hetauda" />
+    <LOCATION NAME="Unilever" GROUP="5" CITY="Hetauda" />
+    <LOCATION NAME="Chaughada" GROUP="6" CITY="Hetauda" />
+    <LOCATION NAME="Simara" GROUP="1" CITY="Simara" />
+    <LOCATION NAME="Hulas Steels" GROUP="2" CITY="Simara" />
+    <LOCATION NAME="Dumarwana" GROUP="3" CITY="Simara" />
+    <LOCATION NAME="Jitpur" GROUP="4" CITY="Simara" />
+    <LOCATION NAME="Musaharni mai" GROUP="5" CITY="Simara" />
+    <LOCATION NAME="Narawasti" GROUP="7" CITY="Simara" />
+    <LOCATION NAME="Rambahan" GROUP="7" CITY="Simara" />
+    <LOCATION NAME="Amlekhgunj" GROUP="7" CITY="Amlekhgunj" />
+    <LOCATION NAME="Birgunj-1" GROUP="1" CITY="Birgunj" />
+    <LOCATION NAME="Birgunj-2" GROUP="2" CITY="Birgunj" />
+    <LOCATION NAME="Kalaiya 33KV" GROUP="3" CITY="Birgunj" />
+    <LOCATION NAME="Birgunj-4" GROUP="5" CITY="Birgunj" />
+    <LOCATION NAME="Birgunj-5" GROUP="6" CITY="Birgunj" />
+    <LOCATION NAME="Pokhariya 33KV" GROUP="7" CITY="Birgunj" />
+    <LOCATION NAME="Birgunj-6" GROUP="7" CITY="Birgunj" />
+    <LOCATION NAME="Gramin" GROUP="1" CITY="Sarlahi" />
+    <LOCATION NAME="Krishi" GROUP="3" CITY="Sarlahi" />
+    <LOCATION NAME="Parwani Gandak" GROUP="7" CITY="Sarlahi" />
+    <LOCATION NAME="Neejgadh 33KV" GROUP="1" CITY="chandranigahapur" />
+    <LOCATION NAME="Gaur 33KV" GROUP="3" CITY="chandranigahapur" />
+    <LOCATION NAME="Harsha 33KV" GROUP="4" CITY="chandranigahapur" />
+    <LOCATION NAME="Haripur 33KV" GROUP="6" CITY="chandranigahapur" />
+    <LOCATION NAME="Chapur South" GROUP="6" CITY="chandranigahapur" />
+    <LOCATION NAME="Chapur North" GROUP="7" CITY="chandranigahapur" />
+    <LOCATION NAME="Sindhuli 33KV" GROUP="2" CITY="Janakpur" />
+    <LOCATION NAME="Lalgad" GROUP="3" CITY="Janakpur" />
+    <LOCATION NAME="Janakpur-1 33KV" GROUP="4" CITY="Janakpur" />
+    <LOCATION NAME="Malangwaa 33KV" GROUP="5" CITY="Janakpur" />
+    <LOCATION NAME="Janakpur-2 33KV" GROUP="5" CITY="Janakpur" />
+    <LOCATION NAME="Mahendranagar" GROUP="5" CITY="Janakpur" />
+    <LOCATION NAME="Godar" GROUP="7" CITY="Janakpur" />
+    <LOCATION NAME="Rupeni 33KV" GROUP="3" CITY="Lahan" />
+    <LOCATION NAME="Bishanpur 33KV" GROUP="4" CITY="Lahan" />
+    <LOCATION NAME="Lahan" GROUP="4" CITY="Lahan" />
+    <LOCATION NAME="Jaljale 33KV" GROUP="5" CITY="Lahan" />
+    <LOCATION NAME="Bastipur" GROUP="7" CITY="Lahan" />
+    <LOCATION NAME="Jahadi" GROUP="7" CITY="Lahan" />
+    <LOCATION NAME="Thadi" GROUP="7" CITY="Lahan" />
+    <LOCATION NAME="Bhrikuti" GROUP="1" CITY="Bharatpur" />
+    <LOCATION NAME="Narayanghat" GROUP="1" CITY="Bharatpur" />
+    <LOCATION NAME="Sichai" GROUP="2" CITY="Bharatpur" />
+    <LOCATION NAME="Parsa 33KV" GROUP="3" CITY="Bharatpur" />
+    <LOCATION NAME="Chanauli 33KV" GROUP="4" CITY="Bharatpur" />
+    <LOCATION NAME="Bharatpur" GROUP="5" CITY="Bharatpur" />
+    <LOCATION NAME="Gaindakot" GROUP="7" CITY="Bharatpur" />
+    <LOCATION NAME="Pragatinagar" GROUP="1" CITY="Kawasoti" />
+    <LOCATION NAME="Rajahar 11KV" GROUP="4" CITY="Kawasoti" />
+    <LOCATION NAME="Kawashoti 33KV" GROUP="5" CITY="Kawasoti" />
+    <LOCATION NAME="Pratappur" GROUP="1" CITY="Nawalparasi" />
+    <LOCATION NAME="Sunawal" GROUP="4" CITY="Nawalparasi" />
+    <LOCATION NAME="Dumkibas" GROUP="5" CITY="Nawalparasi" />
+    <LOCATION NAME="Bardaghat Bazaar" GROUP="7" CITY="Nawalparasi" />
+<LOCATION NAME="Pratappur" GROUP="1" CITY="Lumbini" />
+    <LOCATION NAME="Sunawal" GROUP="4" CITY="Lumbini" />
+    <LOCATION NAME="Dumkibas" GROUP="5" CITY="Lumbini" />
+    <LOCATION NAME="Bardaghat Bazaar" GROUP="7" CITY="Lumbini" />
+
+    <LOCATION NAME="Bhairawa old 33KV" GROUP="1" CITY="Butwal" />
+    <LOCATION NAME="Bhairawa New-1 33KV" GROUP="1" CITY="Butwal" />
+    <LOCATION NAME="Bhumigat Sichai" GROUP="2" CITY="Butwal" />
+    <LOCATION NAME="Bhairawa New-2 33KV" GROUP="2" CITY="Butwal" />
+    <LOCATION NAME="Lumbini 33KV" GROUP="2" CITY="Butwal" />
+    <LOCATION NAME="Butwal West" GROUP="3" CITY="Butwal" />
+    <LOCATION NAME="Butwal East" GROUP="6" CITY="Butwal" />
+    <LOCATION NAME="Saaljhandi" GROUP="7" CITY="Butwal" />
+    <LOCATION NAME="Naya Mill" GROUP="7" CITY="Butwal" />
+    <LOCATION NAME="Parashi 33KV" GROUP="4" CITY="Chauraha" />
+    <LOCATION NAME="Palpa Bazaar" GROUP="1" CITY="Palpa" />
+    <LOCATION NAME="Palpa West" GROUP="2" CITY="Palpa" />
+    <LOCATION NAME="Gulmi" GROUP="4" CITY="Palpa" />
+    <LOCATION NAME="Argakhachi" GROUP="4" CITY="Palpa" />
+    <LOCATION NAME="Purba, Palpa" GROUP="5" CITY="Palpa" />
+    <LOCATION NAME="Pipara" GROUP="1" CITY="Shivapur" />
+    <LOCATION NAME="Bahadurgunj" GROUP="2" CITY="Shivapur" />
+    <LOCATION NAME="Shivapur" GROUP="4" CITY="Shivapur" />
+    <LOCATION NAME="Krishnanagar 33KV" GROUP="5" CITY="Shivapur" />
+    <LOCATION NAME="Lamahi" GROUP="1" CITY="Lamahi" />
+    <LOCATION NAME="Rihar" GROUP="3" CITY="Lamahi" />
+    <LOCATION NAME="Ghorahi 33KV" GROUP="5" CITY="Lamahi" />
+    <LOCATION NAME="Bhaluwang" GROUP="7" CITY="Lamahi" />
+    <LOCATION NAME="Gaduwa" GROUP="7" CITY="Lamahi" />
+    <LOCATION NAME="Soti Pasal -1" GROUP="1" CITY="Damauli" />
+    <LOCATION NAME="Damauli" GROUP="3" CITY="Damauli" />
+    <LOCATION NAME="Tharpu" GROUP="4" CITY="Damauli" />
+    <LOCATION NAME="Tanahunsur" GROUP="5" CITY="Damauli" />
+    <LOCATION NAME="Aanbookhaireni 33KV" GROUP="6" CITY="Damauli" />
+    <LOCATION NAME="Bhoteodar" GROUP="5" CITY="" />
+    <LOCATION NAME="Okhari" GROUP="7" CITY="" />
+    <LOCATION NAME="Begnas" GROUP="1" CITY="Lekhnath" />
+    <LOCATION NAME="Kalika" GROUP="3" CITY="Lekhnath" />
+    <LOCATION NAME="Khaireni" GROUP="5" CITY="Lekhnath" />
+    <LOCATION NAME="Budhibazaar" GROUP="7" CITY="Lekhnath" />
+    <LOCATION NAME="Phewa" GROUP="1" CITY="Pokhara" />
+    <LOCATION NAME="City" GROUP="2" CITY="Pokhara" />
+    <LOCATION NAME="Airport" GROUP="2" CITY="Pokhara" />
+    <LOCATION NAME="Bazaar" GROUP="3" CITY="Pokhara" />
+    <LOCATION NAME="Baidaam" GROUP="4" CITY="Pokhara" />
+    <LOCATION NAME="Aarwa" GROUP="5" CITY="Pokhara" />
+    <LOCATION NAME="Sarangkot" GROUP="6" CITY="Pokhara" />
+    <LOCATION NAME="Tatopani" GROUP="7" CITY="Pokhara" />
+    <LOCATION NAME="Charikot" GROUP="1" CITY="Bhimeshwor" />
+    <LOCATION NAME="Jiri" GROUP="1" CITY="Jiri" />
+    <LOCATION NAME="Lamosanghu" GROUP="2" CITY="Sindhupalchowk" />
+    <LOCATION NAME="Magnesite" GROUP="3" CITY="Sunkoshi" />
+    <LOCATION NAME="Barhabise" GROUP="4" CITY="Sindhupalchowk" />
+    <LOCATION NAME="Pakhar" GROUP="6" CITY="Chautara" />
+    <LOCATION NAME="Chautara" GROUP="6" CITY="Chautara" />
+    <LOCATION NAME="Nuwakot" GROUP="1" CITY="Nuwakot" />
+    <LOCATION NAME="Tupche" GROUP="3" CITY="Tupche" />
+    <LOCATION NAME="Dhunche" GROUP="4" CITY="Dhunche" />
+    <LOCATION NAME="Trishuli Bazaar" GROUP="5" CITY="Trishuli Bazar" />
+    <LOCATION NAME="Ramshanghe" GROUP="5" CITY="Ramshanghe" />
+    <LOCATION NAME="Bidur" GROUP="6" CITY="Bidur" />
+    <LOCATION NAME="Colony" GROUP="7" CITY="Colony" />
+    <LOCATION NAME="Chainpur" GROUP="1" CITY="Bharatpur" />
+    <LOCATION NAME="Colony/Barrack" GROUP="4" CITY="Devghat" />
+    <LOCATION NAME="Ranipauwa" GROUP="7" CITY="Devghat" />
+    <LOCATION NAME="Bumtang" GROUP="7" CITY="Bidur" />
+    <LOCATION NAME="Murali Bhanjyang" GROUP="1" CITY="" />
+    <LOCATION NAME="Sunaula Bazaar" GROUP="2" CITY="Dhading" />
+    <LOCATION NAME="Gajuri" GROUP="3" CITY="Dhading" />
+    <LOCATION NAME="Aadamghat" GROUP="4" CITY="Dhading" />
+    <LOCATION NAME="Salyantaar" GROUP="5" CITY="Dhading" />
+    <LOCATION NAME="Tribeni" GROUP="3" CITY="Tribeni" />
+    <LOCATION NAME="Surajpura" GROUP="3" CITY="Tribeni" />
+    <LOCATION NAME="Modi 11KV" GROUP="5" CITY="Modi River" />
+    <LOCATION NAME="Baglung 11KV" GROUP="6" CITY="Baglung" />
+</LOCATIONS>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/settings_general">
+        <CheckBoxPreference
+            android:key="time_format"
+            android:title="@string/settings_time_format"></CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="autoupdate"
+            android:title="@string/settings_autoupdate"></CheckBoxPreference>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/settings_notification">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="charge_instructions"
+            android:title="Charge notification"/>
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="power_save_move"
+            android:title="Power saver mode"/>
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="notification"
+            android:title="@string/settings_notification_text"></CheckBoxPreference>
+        <ListPreference
+            android:title="@string/settings_notificatin_time"
+            android:key="notification_time"
+            android:defaultValue="15"
+            android:entries="@array/settings_notification_time"
+            android:entryValues="@array/settings_notification_time_values" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
